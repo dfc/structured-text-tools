@@ -36,6 +36,8 @@ Awk is a POSIX-standard command line tool for processing this sort of data.
 
 # XML, HTML
 
+* [html-xml-utils](https://www.w3.org/Tools/HTML-XML-utils/) - A number of simple utilities for manipulating HTML and XML files form W3C.
+
 * [XMLStarlet](http://xmlstar.sourceforge.net/overview.php)
 
 * [xml2](http://www.ofb.net/~egnor/xml2/) — convert XML and HTML to and from flat, greppable lists of "path=value" statements.
